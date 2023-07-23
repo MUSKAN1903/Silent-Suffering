@@ -4,7 +4,7 @@
 # Suicides in India : An In-depth Data Analysis 
 > - In this data-driven journey, we leverage the power of Tableau to analyze and visualize the complexities of suicides in India.
 > - Our interactive Tableau dashboards present a dynamic and comprehensive exploration of the data, offering deep insights into the patterns, trends, and underlying factors contributing to this critical societal concern.
-> - Tableau's interactive features empower users to dive deep into the data, enabling them to  gain valuable insights into the distribution of suicide cases across regions, age groups, and genders, shedding light on critical patterns and underlying factors.
+> - Tableau's interactive features empower users to dive deep into the data, enabling us to  gain valuable insights into the distribution of suicide cases across regions, age groups, and genders, shedding light on critical patterns and underlying factors.
 > - The project aims to raise awareness, promote evidence-based discussions, and foster informed decision-making for a collective effort towards suicide prevention and mental health support in India.
 
 
