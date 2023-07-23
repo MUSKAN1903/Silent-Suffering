@@ -5,7 +5,7 @@
 > - In this data-driven journey, we leverage the power of Tableau to analyze and visualize the complexities of suicides in India.
 > - Our interactive Tableau dashboards present a dynamic and comprehensive exploration of the data, offering deep insights into the patterns, trends, and underlying factors contributing to this critical societal concern.
 > - Tableau's interactive features empower users to dive deep into the data, enabling them to  gain valuable insights into the distribution of suicide cases across regions, age groups, and genders, shedding light on critical patterns and underlying factors.
-> - Our interactive visualization aims to raise awareness, promote evidence-based discussions, and foster informed decision-making for a collective effort towards suicide prevention and mental health support in India.
+> - The project aims to raise awareness, promote evidence-based discussions, and foster informed decision-making for a collective effort towards suicide prevention and mental health support in India.
 
 
 ![image](https://github.com/MUSKAN1903/Silent-Suffering/assets/70433658/87999da1-4045-4431-a273-3d117bfa84df)
