@@ -1,4 +1,5 @@
-![image](https://github.com/MUSKAN1903/Suicides-in-India/assets/70433658/7a9489d8-293b-4007-bdd7-97301739f4fb)
+![image](https://github.com/MUSKAN1903/Suicides-in-India/assets/70433658/1fa94dab-618c-4a57-a534-c20808c7ff5d)
+
 
 # Suicides in India : An In-depth Data Analysis
 Discover crucial insights from the data on suicides in India for the years 2001-2012
